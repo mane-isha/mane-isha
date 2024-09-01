@@ -10,9 +10,6 @@
 I'm a BSc IT Student 💻.
 </h2> 
 
-<h4 align="center">
-HELLO
-  </h4>
   
 ### 🤝 Connect with me:
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
